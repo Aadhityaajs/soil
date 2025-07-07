@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "814452999843",
+    "firebase_url": "https://soil-monitor-data-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "soil-monitor-data",
+    "storage_bucket": "soil-monitor-data.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814452999843:android:250569ee704ae4c8f3e116",
+        "android_client_info": {
+          "package_name": "com.example.soil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEK6bmHxQCv5CxCYBqKpn9swb9r_MMS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
